@@ -1,10 +1,10 @@
-# Three.js Journey
+# The Flag of Viet Nam
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## Installation
 
-``` bash
+Download [Node.js](https://nodejs.org/en/download/) and run this followed commands:
+
+```bash
 # Install dependencies (only the first time)
 npm install
 
